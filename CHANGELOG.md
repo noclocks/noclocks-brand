@@ -12,6 +12,7 @@
 
 ## Features
 
+- Add favicons ([f3571b7](https://github.com/noclocks/noclocks-brand/commit/f3571b73a6006f40e347d0d499a7b0f3d8119ba7))  - (Jimmy Briggs)
 - Add github actions ([b2e7a2e](https://github.com/noclocks/noclocks-brand/commit/b2e7a2ef401f686ee2b82c479bc85a832a2ae63e))  - (Jimmy Briggs)
 
 ***
