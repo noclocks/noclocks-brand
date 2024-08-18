@@ -17,6 +17,7 @@
 
 ## Features
 
+- Add git and license files ([59c3504](https://github.com/noclocks/noclocks-brand/commit/59c350460c3b83c88be6055e75d24f40c1fadd38))  - (Jimmy Briggs)
 - Add techstack ([4d6ab5e](https://github.com/noclocks/noclocks-brand/commit/4d6ab5e9162ac5b2dc496dcc43aaf4d591827192))  - (Jimmy Briggs)
 - Add placeholders ([f564d0b](https://github.com/noclocks/noclocks-brand/commit/f564d0b34e12f312a4d7d915e06bdcbff4e601b0))  - (Jimmy Briggs)
 - Add patterns ([3311985](https://github.com/noclocks/noclocks-brand/commit/3311985926995be32b6b213e9aadf588a5f84791))  - (Jimmy Briggs)
