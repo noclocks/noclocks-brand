@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+## Configuration
+
+- Gitignore archive ([12cb2b5](https://github.com/noclocks/noclocks-brand/commit/12cb2b5ae24de7a97bef5e587612c3335e1a0ecc))  - (Jimmy Briggs)
+
 ## Documentation
 
 - Initialize empty md docs ([f72dd76](https://github.com/noclocks/noclocks-brand/commit/f72dd767479988c4a0d3d8d6816ea9563f562492))  - (Jimmy Briggs)
