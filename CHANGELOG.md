@@ -13,6 +13,7 @@
 
 ## Documentation
 
+- Update README.md ([1c7ad1d](https://github.com/noclocks/noclocks-brand/commit/1c7ad1dbdf535681ed026a54179de5d0e14cc661))  - (Jimmy Briggs)
 - Initialize empty md docs ([f72dd76](https://github.com/noclocks/noclocks-brand/commit/f72dd767479988c4a0d3d8d6816ea9563f562492))  - (Jimmy Briggs)
 
 ## Features
