@@ -1,4 +1,4 @@
-# No Clocks Brand <img src="src/images/logos/noclocks-logo-black.svg" width="200" align="right" alt="No Clocks Logo" />
+# No Clocks Brand <img src="src/images/logos/main/noclocks-logo.png" width="200" align="right" alt="No Clocks Logo" />
 
 > [!NOTE]
 > This repository houses the source code and assets for the No Clocks brand.
