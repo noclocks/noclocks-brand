@@ -17,6 +17,11 @@
 
 ## Features
 
+- Bulk add images ([57db39d](https://github.com/noclocks/noclocks-brand/commit/57db39d60f5107c4d2ba44d76cb7efc9afea3cc2))  - (Jimmy Briggs)
+- Add GMH client logo ([afef607](https://github.com/noclocks/noclocks-brand/commit/afef6079167da18a63d7d54271ef3a6de9bc6a9d))  - (Jimmy Briggs)
+- Add user.svg icon/placeholder ([486d526](https://github.com/noclocks/noclocks-brand/commit/486d526abb03e0120fe16f6180686531d6793b09))  - (Jimmy Briggs)
+- Add blue tech experts banner ([221b8e2](https://github.com/noclocks/noclocks-brand/commit/221b8e281d21fa4ac07a81ae804d644177029f41))  - (Jimmy Briggs)
+- Add scss color definitions ([7f5ebbd](https://github.com/noclocks/noclocks-brand/commit/7f5ebbdab0d166289f75aca7fe76b92a93a18396))  - (Jimmy Briggs)
 - Add git and license files ([59c3504](https://github.com/noclocks/noclocks-brand/commit/59c350460c3b83c88be6055e75d24f40c1fadd38))  - (Jimmy Briggs)
 - Add techstack ([4d6ab5e](https://github.com/noclocks/noclocks-brand/commit/4d6ab5e9162ac5b2dc496dcc43aaf4d591827192))  - (Jimmy Briggs)
 - Add placeholders ([f564d0b](https://github.com/noclocks/noclocks-brand/commit/f564d0b34e12f312a4d7d915e06bdcbff4e601b0))  - (Jimmy Briggs)
