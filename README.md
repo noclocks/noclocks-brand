@@ -6,6 +6,18 @@
 
 ## Contents
 
-- [Logos](src/images/logos)
+All brand assets are stored under the [`src/`](./src/) directory:
+
 - [Colors](src/colors)
+- [Documents](src/documents)
 - [Fonts](src/fonts)
+- [Images](src/images)
+- [Media](src/media)
+- [Scripts](src/scripts)
+- [Styles](src/styles)
+- [Templates](src/templates)
+- [Vendor](src/vendor)
+
+***
+
+&copy; No Clocks, LLC | 2024
